@@ -1,0 +1,98 @@
+// @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+html, body {
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	display: table;
+	font-weight: 500;
+	font-family: 'Helvetica';
+	color: #d6c71d;
+}
+
+.light-blue {
+	background-color: #202c4a;
+}
+
+.container {
+	text-align: center;
+	display: table-cell;
+	vertical-align: middle;
+	height: 500px;
+	background-color: #0d1e41;
+	
+	.img-content {
+		.home-crest {
+			margin-top: -110px;
+			margin-bottom: 30px;
+			height: 272px;
+		}
+	}
+		
+	.content {
+		text-align: center;
+		position: relative;
+		display: block;
+		.title {
+			font-size: 302px;
+			font-weight: bold;
+			color: #202c4a;
+			display: block;
+		}
+		.back-box {
+			position: absolute;
+			left: 0;
+			right: 0;
+			top: 33%;
+			width: 100%;
+			
+			.back-title {
+				display: block;
+				font-size: 97px;
+				font-weight: bold;
+				margin: 0;
+			}
+		}
+		
+		.chapters-row {
+			display: flex;
+			width: 60%;
+			margin: auto;
+		
+			.chapters {
+				width: 25%;
+				float: left;
+				
+				h2 {
+					margin: 0;
+					font-size: 120px;
+				}
+				h5 {
+					margin: 0;
+					font-size: 45px;
+					font-weight: 300;
+					padding-bottom: 15px;
+					margin-top: -13px;
+				}
+			}
+		}
+		
+		.enter-title {
+			color: #202c4a;
+			border: 1px solid #202c4a;
+			font-size: 86px;
+		}
+	}
+	
+	.inline {
+		display: inline;
+		width: 100%;
+	}
+}
+
+
+
