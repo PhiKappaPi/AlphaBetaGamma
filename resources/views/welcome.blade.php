@@ -8,7 +8,7 @@
         <link href="{{URL::asset('css/app.css')}}" rel="stylesheet" type="text/css">
 		
     </head>
-    <body>
+    <body class="bodystyle">
         <div class="container">
             <div class="content">
 				<div class="title">ΦΚΠ</div>
