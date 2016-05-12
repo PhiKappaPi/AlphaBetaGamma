@@ -12,78 +12,90 @@
 <body class="bodystyle">
 
 
-	<div style="text-align:center;display:table-cell;vertical-align:top;height:500px;background-color:#0d1e41">
-         
+	<div style="text-align:center;display:table-cell;height:500px;background-color:#0d1e41">
+         <header>
 				<div style="margin-bottom:-50px; background-color:#202c4a"> 
-					<div>
 						<h4 style="font-size: 50px; margin-top: 100px; padding-top: 20px">Join us at the Phi Kappa Pi</h4>
-						
-					
 						<h2 style="font-size: 100px; margin-top: -70px;padding-bottom:10px;">ANNUAL GOLF TOURNAMENT</h2>
-					</div>
 				</div>
-				<div class="content" style="height: auto" >
-					<div style="align: center; padding: 1px 300px 30px 300px; font-size:30px; background-color:#202c4a; ">
+				<div style="align: center; padding: 1px 300px 10px 300px; font-size:30px; background-color:#202c4a; ">
 					<p>
 						The Alumni Society would like to invite you to the long-lasting tradition of the 2016 PKP Annual Golf Tournament in Arundel, Quebec happening on June 11th, 2016. For years, this event has brought all brothers back to an environment of comradery and joy, allowing everyone to hop on back to memory lane on that single day. 
-						</p>
-						<p>
+					</p>
+					<p>
 						This is an opportunity for actives and alumni to spend some time together to smoke cigars, have a few cold ones, sharpen golf skills and have a good old PKP time. This is the first year that families are invited, and we are very excited about this inclusion!
-						</p>
+					</p>
+					<p>
 						We have many activities open to actives and alumni; you can choose to partake in one or all of them. 
-					</div>
-					<div >
-				
-						<img src="{{URL::asset('img/CoolDoods.jpg')}}"s style="float:right ;padding-left:30px; height: 500px; margin-right:160px; padding:20px 20px 20px 20px;margin-top:10px;; background-color:#202c4a; border-style: solid; border-width:2px"> </img>
-					
-						<div style="align:left; width: auto; height: auto; font-size: 28px; text-align: left;padding-left: 200px; width: 700px;padding-top:10px; margin-right:40px; margin-bottom: 100px">
-									<!WHAT WHERE WHEN HOW-MUCH>
-							<p>
-							Here are the highlights with expected costs:
-							</p>
-							<dl>
-							What
-							<dt>• 12 foursomes with first tee-off at 9:30 AM</dt> 
-							<dd>- Every 8 minutes thereafter </dd>
-							<dt>• Green fees + obligatory half cart: </dt>
-							<dd>- Actives $50</dd>
-							<dd>- Alumni $75</dd>
-							</dl>
-							<dl>
-							Accommodations
-							<dt>• Le Grand Lodge Mont-Tremblant	</dt>
-							<dt>• June 10 and June 11</dt>
-							<dt>• Group rates: </dt>
-							<dd>Double lake-view suites from $195 per night + taxes</dd>
-							<dd>Double Deluxe suites from $205 per night + taxes</dd>
-							</dt>
-							
-						</div>
-					</div>
-					<div>
-								<p style="align:center; font-size:30px">
-								Other Activities
-								</p>
+					</p>
+				</div>
+		</header>
+
+		<aside >
+						<img src="{{URL::asset('img/CoolDoods.jpg')}}" style="float:right ;padding-left:30px; height: 500px; margin-right:300px; padding:20px 20px 20px 20px;margin-top:10px;; background-color:#202c4a; border-style: solid; border-width:2px">
+		</aside>
+		<section>
+				<div style="align:left; width: 1000px; font-size: 27px; text-align: left; padding-left: 300px; width: 700px;padding-top:10px; margin-right:50px; margin-bottom: 100px">
+										<!WHAT WHERE WHEN HOW-MUCH>
+								<h3>
+								Here Are The Highlights With Expected Costs
+								</h3>
+								<dl>
+								Where:
+								<dt> - Golfing : Arundel Golf & Country Club</dt>
+								<dt> - Sleeping : Le Grand Lodge Mont-Tremblant</dt>
+								</dl>
+								<dl>
+								When:
+								<dt>- June 10 and 11 </dt>
+								<dt>- Golfing On June 11</dt>
+								<dd>· 12 foursomes</dd>
+								<dd>· First tee-off at 9:30 AM</dd> 
+								<dd>· Every 8 minutes thereafter </dd>
+								</dl>
+								<dl>Costs:
+								<dt>- Green Fees + Obligatory Half Cart: </dt>
+								<dd>· Alumni $75</dd>
+								<dd>· Actives $50</dd>
+								<dt>- Accommodations:</dt>
+								<dd>· Group rates</dd>
+								<dd>· Double Deluxe suites from $205 per night + taxes</dd>
+								<dd>· Double lake-view suites from $195 per night + taxes</dd>
+
+								</dl>
 								
-								<p style="font-size:25px">For the Family</p>
-								<p>  Relaxation: massages and Scandinavian baths<br>
-								Outdoors: hiking or biking<br>
-								Motorized: airplane/helicopter tours, karting, boat rentals<br>
+			
+								<h3 >
+								Other Activities
+								</h3>
+								<dl>
+								<h5>For the Family</h5>
+								<dt>  Relaxation: massages and Scandinavian baths</dt>
+								<dt>Outdoors: hiking or biking</dt>
+								<dt>Motorized: airplane/helicopter tours, karting, boat rentals</dt>
 								</p>
-								<p>You may also choose to relax at Jim's <br>
+								</dl>
+								<h5>You May Also Choose To Relax At Jim's</h5>
+								<p>
 								Boating will be available<br>
 								Help out Team Eileen with dinner preparations<br>
 								Volunteer to babysit for mothers going for massages and/or baths<br>
+								Brother Jim Ross is hosting the dinner at his cottage beside a lake, minutes from the golf course.<br>
 								</p>
-								<p>
-								BBQ Dinner at Jim's:<br>
-								•	Relaxing at Brother Jim Ross'; who is hosting the dinner at his cottage beside a lake, minutes from the golf course.<br>
-								•	The Works: steak and baked potatoes, Caesar salad, stir-fried mushrooms, coleslaw, potato salad, fresh bread and more desserts you can count<br>
-								•	Actives $25 (free if you help with preparations and cleanup), Alumni $40
-								</p>
-								<p>
-								Let’s make sure to thank Brother Jim Ross and his family for sharing their home and hosting this great event!
-								</p>
+								<dl>
+								<h5>BBQ Dinner at Jim's:</h5>
+								<dt>The Works! 
+								<dd>Steak and baked potatoes </dd>
+								<dd>Caesar salad, stir-fried mushrooms, coleslaw, potato salad</dd> 
+								<dd>Fresh bread and more desserts you can count</dd>
+								<dt>Reimbursement</dt>
+								<dd>Alumni $40</dd>
+								<dd>Actives $25 (free if you help with preparations and cleanup)</dd>
+								</dl>
+				</div>	
+		
+
+				<div>
 								<p>
 								What you need to do:
 								</p>
@@ -101,7 +113,13 @@
 								Dereck and Seby
 								</p>
 					</div>
+			</section>
+			<footer>
+						<h2 style="font-size: 70px; padding:20px 100px 50px 100px" >Let’s make sure to thank Brother Jim Ross and his family for sharing their home and hosting this great event!</h2>
+			</footer>
 				</div>
+			</div>
+		</div>
 
 	</div>
 

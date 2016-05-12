@@ -1,11 +1,31 @@
 html,
-.bodystyle {height:100%;margin:0;padding:0;width:100%;display:table;font-weight:500;font-family:'Helvetica';color:#d6c71d
+.bodystyle {height:100%;
+	margin:0;
+	padding:0;
+	width:100%;
+	display:table;
+	font-weight:500;
+	font-family:'Helvetica';
+	color:#d6c71d
 }
-.container{text-align:center;display:table-cell;vertical-align:middle;height:500px;background-color:#0d1e41
+.container{text-align:center;
+	display:table-cell;
+	vertical-align:middle;
+	height:500px;
+	background-color:#0d1e41
 }
-.content{text-align:center;display:block;
+.content{
+	text-align:center;
+	display:block;
 }
-.title{font-size:96px
+.title{
+	font-size:96px
 }
-.chapters{font-size:45px;width:25%;float:left}
+.chapters{
+	font-size:45px;
+	width:25%;
+	float:left}
+}
+.littleheader {
+	font-size:25px
 }
