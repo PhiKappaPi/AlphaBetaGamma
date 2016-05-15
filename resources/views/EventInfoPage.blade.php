@@ -6,17 +6,15 @@
         <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
 
         <link href="{{URL::asset('css/app.css')}}" rel="stylesheet" type="text/css">
-        <style> p.header
-        </style>
 	</head>
 <body class="bodystyle">
 
 
 	<div style="text-align:center;display:table-cell;height:500px;background-color:#0d1e41">
          <header>
-				<div style="margin-bottom:-50px; background-color:#202c4a"> 
-						<h4 style="font-size: 50px; margin-top: 100px; padding-top: 20px">Join us at the Phi Kappa Pi</h4>
-						<h2 style="font-size: 100px; margin-top: -70px;padding-bottom:10px;">ANNUAL GOLF TOURNAMENT</h2>
+				<div class="event-title-box" > 
+						<h4 style="font-size: 50px; padding-top: 20px">Join us at the Phi Kappa Pi</h4>
+						<h2 style="font-size: 100px; padding-bottom:10px;">ANNUAL GOLF TOURNAMENT</h2>
 				</div>
 				<div style="align: center; padding: 1px 300px 10px 300px; font-size:30px; background-color:#202c4a; ">
 					<p>

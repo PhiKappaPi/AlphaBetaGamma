@@ -18,6 +18,16 @@ body {
 	background-color: #202c4a;
 }
 
+.event-title-box {
+	background-image: url('/img/golf-ball-by-hole.jpg');
+	background-position: 0 -500px;
+	height: 700px;
+	
+	h4 {
+		margin: 0;
+	}
+}
+
 .container {
 	text-align: center;
 	display: table-cell;
@@ -92,12 +102,12 @@ body {
 		display: inline;
 		width: 100%;
 	}
-	.lead
-	text-align:center;
-	display:table-cell;
-	vertical-align:middle;
-	height:500px;
-	background-color:#0d1e41
+	.lead {
+		text-align:center;
+		display:table-cell;
+		vertical-align:middle;
+		height:500px;
+		background-color:#0d1e41
 	}
 }
 
