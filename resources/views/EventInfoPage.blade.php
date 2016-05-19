@@ -34,7 +34,7 @@
 			</div>
 		</div>
 
-		<div class="container" style="text-align:center;display:table-cell;height:500px;background-color:#0d1e41; width:auto">
+	<div class="container-fluid" style="text-align:center;display:table-cell;height:500px;background-color:#0d1e41">
          
 
 		<aside >
