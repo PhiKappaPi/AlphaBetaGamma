@@ -6,18 +6,19 @@
         <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
 
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+		
         <link href="{{URL::asset('css/app.css')}}" rel="stylesheet" type="text/css">
 	</head>
-<body class="bodystyle">
-
-
-	<div style="text-align:center;display:table-cell;height:500px;background-color:#0d1e41">
-         <header>
-				<div class="event-title-box" > 
-						<h4 style="font-size: 50px; padding-top: 20px">Join us at the Phi Kappa Pi</h4>
-						<h2 style="font-size: 100px; padding-bottom:10px;">ANNUAL GOLF TOURNAMENT</h2>
-				</div>
-				<div style="align: center; padding: 1px 300px 10px 300px; font-size:25px; background-color:#202c4a; ">
+	<body class="bodystyle">
+	<div class="main-container">
+		<div class="event-title-box" > 
+			<h4 style="font-size: 50px; padding-top: 20px">Join us at the Phi Kappa Pi</h4>
+			<h2 style="font-size: 100px; padding-bottom:10px;">ANNUAL GOLF TOURNAMENT</h2>
+		</div>
+		<div class="container-fluid about-container">
+			<div class="container">
+				<div class="content about-event">
 					<p>
 						The Alumni Society would like to invite you to the long-lasting tradition of the 2016 PKP Annual Golf Tournament in Arundel, Quebec happening on June 11th, 2016. For years, this event has brought all brothers back to an environment of comradery and joy, allowing everyone to hop on back to memory lane on that single day. 
 					</p>
@@ -28,7 +29,11 @@
 						We have many activities open to actives and alumni; you can choose to partake in one or all of them. 
 					</p>
 				</div>
-		</header>
+			</div>
+		</div>
+
+	<div class="container" style="text-align:center;display:table-cell;height:500px;background-color:#0d1e41">
+         
 
 		<aside >
 						<img src="{{URL::asset('img/CoolDoods.jpg')}}" style="float:right ;padding-left:30px; height: 500px; margin-right:500px; padding:20px 20px 20px 20px;margin-top:10px; background-color:#202c4a; border-style: solid; border-width:2px">
@@ -119,7 +124,7 @@
 				</div>
 			</div>
 		</div>
-
+		</div>
 	</div>
 
 

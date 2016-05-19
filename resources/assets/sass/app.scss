@@ -28,7 +28,15 @@ body {
 	}
 }
 
-.container {
+.about-container {
+	background-color: #202c4a;
+	.about-event {
+		font-size: 25px;
+		text-align: center;
+	}
+}
+
+.home-container {
 	text-align: center;
 	display: table-cell;
 	vertical-align: middle;
@@ -43,7 +51,7 @@ body {
 		}
 	}
 		
-	.content {
+	.home-content {
 		text-align: center;
 		position: relative;
 		display: block;
