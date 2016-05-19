@@ -22,9 +22,16 @@ body {
 	background-image: url('/img/golf-ball-by-hole.jpg');
 	background-position: 0 -500px;
 	height: 700px;
+	.text-container{
+	background: rgba(32, 44, 74, 0.69);
+	}
 	
 	h4 {
 		margin: 0;
+		text-align:center;
+	}
+	h2 {
+		text-align:center;
 	}
 }
 
@@ -33,6 +40,8 @@ body {
 	.about-event {
 		font-size: 25px;
 		text-align: center;
+		width: 1500px;
+		padding-top:20px;
 	}
 }
 
@@ -119,5 +128,23 @@ body {
 	}
 }
 
+.info {
 
+	.main{
+	font-size: 30px;
+	padding: 20px 0px 30px 500px;
+	text-align: left;
+	}
 
+	.sub{
+	text-align: centre;
+	padding: 0px 500px 0px 500px;
+	}
+		
+
+}
+.primary-headers{
+	text-align: right; 
+	font-size: 80px;
+	margin: 50px 500px 0px 0px
+}
