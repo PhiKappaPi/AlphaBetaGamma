@@ -16,7 +16,7 @@
 						<h4 style="font-size: 50px; padding-top: 20px">Join us at the Phi Kappa Pi</h4>
 						<h2 style="font-size: 100px; padding-bottom:10px;">ANNUAL GOLF TOURNAMENT</h2>
 				</div>
-				<div style="align: center; padding: 1px 300px 10px 300px; font-size:30px; background-color:#202c4a; ">
+				<div style="align: center; padding: 1px 300px 10px 300px; font-size:25px; background-color:#202c4a; ">
 					<p>
 						The Alumni Society would like to invite you to the long-lasting tradition of the 2016 PKP Annual Golf Tournament in Arundel, Quebec happening on June 11th, 2016. For years, this event has brought all brothers back to an environment of comradery and joy, allowing everyone to hop on back to memory lane on that single day. 
 					</p>
@@ -30,13 +30,13 @@
 		</header>
 
 		<aside >
-						<img src="{{URL::asset('img/CoolDoods.jpg')}}" style="float:right ;padding-left:30px; height: 500px; margin-right:300px; padding:20px 20px 20px 20px;margin-top:10px;; background-color:#202c4a; border-style: solid; border-width:2px">
+						<img src="{{URL::asset('img/CoolDoods.jpg')}}" style="float:right ;padding-left:30px; height: 500px; margin-right:500px; padding:20px 20px 20px 20px;margin-top:10px; background-color:#202c4a; border-style: solid; border-width:2px">
 		</aside>
 		<section>
-				<div style="align:left; width: 1000px; font-size: 27px; text-align: left; padding-left: 300px; width: 700px;padding-top:10px; margin-right:50px; margin-bottom: 100px">
+				<div style="align:left; width: 1000px; font-size: 27px; text-align: left; padding-left: 500px; width: 700px;padding-top:10px; margin-right:50px; margin-bottom: 100px">
 										<!WHAT WHERE WHEN HOW-MUCH>
 								<h3>
-								Here Are The Highlights With Expected Costs
+								Highlights & Expected Costs
 								</h3>
 								<dl>
 								Where:
