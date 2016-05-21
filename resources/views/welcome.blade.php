@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>PKP</title>
+        <title>Phi Kappa Pi</title>
 
         <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
 
         <link href="{{URL::asset('css/app.css')}}" rel="stylesheet" type="text/css">
 		
     </head>
-    <body>
-        <div class="container">
-            <div class="content">
+    <body class="bodystyle">
+        <div class="home-container">
+            <div class="home-content">
 				<div class="title">ΦΚΠ</div>
 				<div class="back-box"><h2 class="back-title">Phi Kappa Pi</h2></div>
 			</div>
-			<div class="content img-content">
+			<div class="home-content img-content">
 				<img class="home-crest" src="{{URL::asset('img/Phi_Kappa_Pi_Fraternity_Crest.png')}}" alt='Crest'>
 			</div>
-			<div class="content light-blue"> 	              
+			<div class="home-content light-blue"> 	              
 				<div class="chapters-row">
 					<div class="chapters">
 						<H2>ΣΠ</H2>

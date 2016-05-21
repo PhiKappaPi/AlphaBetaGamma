@@ -15,6 +15,10 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('golfingfundraiser', function () {
+    return view('EventInfoPage');
+});
+
 /*
 |--------------------------------------------------------------------------
 | Application Routes
