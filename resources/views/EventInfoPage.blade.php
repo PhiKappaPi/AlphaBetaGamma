@@ -112,25 +112,55 @@
 			
 			<div class="container-fluid about-container" style="background-color:#0d1e41; padding: 20px 0;">
 				<div class="container about-event">
-					<div>
-						<p>
-						What you need to do:
-						</p>
-						<p>
-						-	Which activities or activity you would like to partake in <br>
-						-	Your foursome (golf)<br>
-						-	Remind your brothers, close or far, of the golf tournament (we want to see everone!)<br>
-						</p>
-						<p>
-						If you have any questions please private message Dereck Pickford (DPickford@ca.loreal.com) and Sebastien Jacques (sebastien.jacqu@gmail.com)
-						</p>
-						<p>
-						Much love as always,
-						</p>
-						Dereck and Seby
-						</p>
-					</div>
+					<p>
+					What you need to do:
+					</p>
+					<p>
+					-	Which activities or activity you would like to partake in <br>
+					-	Your foursome (golf)<br>
+					-	Remind your brothers, close or far, of the golf tournament (we want to see everone!)<br>
+					</p>
+					<p>
+					If you have any questions please private message Dereck Pickford (DPickford@ca.loreal.com) and Sebastien Jacques (sebastien.jacqu@gmail.com)
+					</p>
+					<p>
+					Much love as always,
+					</p><p>
+					Dereck and Seby
+					</p>
 				</div>	
+				
+				<div class="container paypal">
+					<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+						<input type="hidden" name="cmd" value="_xclick">
+						<input type="hidden" name="business" value="pkpalum@gmail.com">
+						<input type="hidden" name="lc" value="US">
+						<input type="hidden" name="button_subtype" value="services">
+						<input type="hidden" name="no_note" value="0">
+						<input type="hidden" name="currency_code" value="CAD">
+						<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest">
+						<table>
+							<tr><td><input class="form-control" type="hidden" name="on0" value="Golf">Golf Packages</td></tr><tr><td><select name="os0">
+								<option value="Golf+Alumni">Golf Only (Alumni) $75.00 CAD</option>
+								<option value="Golf+Actives">Golf Only (Actives) $50.00 CAD</option>
+								<option value="Golf+BBQ+Alumni">Golf + BBQ (Alumni) $115.00 CAD</option>
+								<option value="Golf+BBQ+Actives">Golf + BBQ (Actives) $75.00 CAD</option>
+							</select> </td></tr>
+						</table>
+						<input type="hidden" name="currency_code" value="CAD">
+						<input type="hidden" name="option_select0" value="Golf+Alumni">
+						<input type="hidden" name="option_amount0" value="75.00">
+						<input type="hidden" name="option_select1" value="Golf+Actives">
+						<input type="hidden" name="option_amount1" value="50.00">
+						<input type="hidden" name="option_select2" value="Golf+BBQ+Alumni">
+						<input type="hidden" name="option_amount2" value="115.00">
+						<input type="hidden" name="option_select3" value="Golf+BBQ+Actives">
+						<input type="hidden" name="option_amount3" value="75.00">
+						<input type="hidden" name="option_index" value="0">
+						<input type="submit" name="submit" value="Pay via Paypal" class="btn btn-primary">
+						<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+					</form>
+				</div>
 			</div>
 		</div>
 	</body>

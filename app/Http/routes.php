@@ -15,7 +15,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('golfingfundraiser', function () {
+Route::get('golfingEvent', function () {
     return view('EventInfoPage');
 });
 

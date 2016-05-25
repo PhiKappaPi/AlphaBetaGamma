@@ -38,12 +38,26 @@ body {
 .about-container {
 	background-color: #202c4a;
 	padding: 20px 0;
+	
 	.about-event {
 		font-size: 25px;
 		text-align: center;
 		width: 1500px;
 		display: inline;
 		padding-top:20px;
+	}
+	
+	.paypal {
+		text-align: center;
+		font-size: 20px;
+		
+		table {
+			margin: 10px auto;
+			
+			select {
+				color: black;
+			}
+		}
 	}
 }
 
