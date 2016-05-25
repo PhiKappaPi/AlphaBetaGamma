@@ -18,6 +18,27 @@ body {
 	background-color: #202c4a;
 }
 
+.enter-button {
+	width: 200px;
+	margin: 27px auto;
+	border: 5px solid;
+	
+	a {
+		font-size: 45px;
+		font-weight: bold;
+		height: 75px;
+		color: #d6c71d;
+		display: block;
+		text-decoration: none;
+		line-height: 74px;
+		
+		&:hover {
+			background-color: #d6c71d;
+			color: #0d1e41;
+		}
+	}
+}
+
 .event-title-box {
 	background-image: url('/img/golf-ball-by-hole.jpg');
 	background-position: 0 -500px;
@@ -52,10 +73,15 @@ body {
 		font-size: 20px;
 		
 		table {
+			.table-title {
+				font-size: 22px;
+				font-weight: bold;
+			}
 			margin: 10px auto;
 			
 			select {
 				color: black;
+				font-size: 18px;
 			}
 		}
 	}

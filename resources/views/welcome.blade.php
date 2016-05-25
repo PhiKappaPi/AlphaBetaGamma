@@ -4,6 +4,8 @@
         <title>Phi Kappa Pi</title>
 
         <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
+		
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
         <link href="{{URL::asset('css/app.css')}}" rel="stylesheet" type="text/css">
 		
@@ -21,7 +23,7 @@
 				<div class="chapters-row">
 					<div class="chapters">
 						<H2>ΣΠ</H2>
-						<H5 class= "years">1903</H5>
+						<H5 class= "years">1901</H5>
 					 </div>
 					 <div class="chapters">
 						<H2>ABΓ</H2>
@@ -35,6 +37,12 @@
 						<H2>ΩE</H2>
 						<H5 class= "years">2012</H5>
 					</div>
+				</div>
+			</div>
+			
+			<div class="home-content container">
+				<div class="enter-button">
+					<a href="/golfingEvent"> Enter</a>
 				</div>
 			</div>
         </div>
