@@ -142,8 +142,8 @@
 							<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest">
 							<table>
 								<tr><td class="table-title"><input type="hidden" name="on0" value="Golf">Active Packages</td></tr><tr><td><select class="form-control" name="os0">
-									<option value="Golf+Actives">Golf Only (Actives) $50.00 CAD</option>
-									<option value="Golf+BBQ+Actives">Golf + BBQ (Actives) $75.00 CAD</option>>
+									<option value="Golf+Actives">Golf Only $50.00 CAD</option>
+									<option value="Golf+BBQ+Actives">Golf + BBQ $75.00 CAD</option>>
 									<option value="Golf+BBQ+Lake-View+Actives">Golf + BBQ + Double Lake-View $284.00 CAD</option>
 									<option value="Golf+BBQ+Deluxe+Actives">Golf + BBQ + Double Deluxe $304.00 CAD</option>>
 									<option value="Golf+BBQ+Lake-View+2Nights+Actives">Golf + BBQ + Double Lake-View (2 nights) $493.00 CAD</option>
