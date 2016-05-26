@@ -131,47 +131,80 @@
 				</div>	
 				
 				<div class="container paypal">
-					<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-						<input type="hidden" name="cmd" value="_xclick">
-						<input type="hidden" name="business" value="pkpalum@gmail.com">
-						<input type="hidden" name="lc" value="US">
-						<input type="hidden" name="button_subtype" value="services">
-						<input type="hidden" name="no_note" value="0">
-						<input type="hidden" name="currency_code" value="CAD">
-						<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest">
-						<table>
-							<tr><td class="table-title"><input type="hidden" name="on0" value="Golf">Golf Packages</td></tr><tr><td><select class="form-control" name="os0">
-								<option value="Golf+Alumni">Golf Only (Alumni) $75.00 CAD</option>
-								<option value="Golf+Actives">Golf Only (Actives) $50.00 CAD</option>
-								<option value="Golf+BBQ+Alumni">Golf + BBQ (Alumni) $115.00 CAD</option>
-								<option value="Golf+BBQ+Actives">Golf + BBQ (Actives) $75.00 CAD</option>>
-								<option value="Golf+BBQ+Lake-View+Alumni">Golf + BBQ + Double Lake-View (Alumni) $324.00 CAD</option>
-								<option value="Golf+BBQ+Lake-View+Actives">Golf + BBQ + Double Lake-View (Actives) $284.00 CAD</option>
-								<option value="Golf+BBQ+Deluxe+Alumni">Golf + BBQ + Double Deluxe (Alumni) $344.00 CAD</option>
-								<option value="Golf+BBQ+Deluxe+Actives">Golf + BBQ + Double Deluxe (Actives) $304.00 CAD</option>>
-							</select> </td></tr>
-						</table>
-						<input type="hidden" name="currency_code" value="CAD">
-						<input type="hidden" name="option_select0" value="Golf+Alumni">
-						<input type="hidden" name="option_amount0" value="75.00">
-						<input type="hidden" name="option_select1" value="Golf+Actives">
-						<input type="hidden" name="option_amount1" value="50.00">
-						<input type="hidden" name="option_select2" value="Golf+BBQ+Alumni">
-						<input type="hidden" name="option_amount2" value="115.00">
-						<input type="hidden" name="option_select3" value="Golf+BBQ+Actives">
-						<input type="hidden" name="option_amount3" value="75.00">
-						<input type="hidden" name="option_select4" value="Golf+BBQ+Lake-View+Alumni">
-						<input type="hidden" name="option_amount4" value="324.00">
-						<input type="hidden" name="option_select5" value="Golf+BBQ+Lake-View+Actives">
-						<input type="hidden" name="option_amount5" value="284.00">
-						<input type="hidden" name="option_select6" value="Golf+BBQ+Deluxe+Alumni">
-						<input type="hidden" name="option_amount6" value="344.00">
-						<input type="hidden" name="option_select7" value="Golf+BBQ+Deluxe+Actives">
-						<input type="hidden" name="option_amount7" value="304.00">
-						<input type="hidden" name="option_index" value="0">
-						<input type="submit" name="submit" value="Pay via Paypal" class="btn btn-primary">
-						<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-					</form>
+					<div class="col-md-6">
+						<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+							<input type="hidden" name="cmd" value="_xclick">
+							<input type="hidden" name="business" value="pkpalum@gmail.com">
+							<input type="hidden" name="lc" value="US">
+							<input type="hidden" name="button_subtype" value="services">
+							<input type="hidden" name="no_note" value="0">
+							<input type="hidden" name="currency_code" value="CAD">
+							<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest">
+							<table>
+								<tr><td class="table-title"><input type="hidden" name="on0" value="Golf">Active Packages</td></tr><tr><td><select class="form-control" name="os0">
+									<option value="Golf+Actives">Golf Only (Actives) $50.00 CAD</option>
+									<option value="Golf+BBQ+Actives">Golf + BBQ (Actives) $75.00 CAD</option>>
+									<option value="Golf+BBQ+Lake-View+Actives">Golf + BBQ + Double Lake-View $284.00 CAD</option>
+									<option value="Golf+BBQ+Deluxe+Actives">Golf + BBQ + Double Deluxe $304.00 CAD</option>>
+									<option value="Golf+BBQ+Lake-View+2Nights+Actives">Golf + BBQ + Double Lake-View (2 nights) $493.00 CAD</option>
+									<option value="Golf+BBQ+Deluxe+2Nights+Actives">Golf + BBQ + Double Deluxe (2 nights) $533.00 CAD</option>>
+								</select> </td></tr>
+							</table>
+							<input type="hidden" name="currency_code" value="CAD">
+							<input type="hidden" name="option_select0" value="Golf+Actives">
+							<input type="hidden" name="option_amount0" value="50.00">
+							<input type="hidden" name="option_select1" value="Golf+BBQ+Actives">
+							<input type="hidden" name="option_amount1" value="75.00">
+							<input type="hidden" name="option_select2" value="Golf+BBQ+Lake-View+Actives">
+							<input type="hidden" name="option_amount2" value="284.00">
+							<input type="hidden" name="option_select3" value="Golf+BBQ+Deluxe+Actives">
+							<input type="hidden" name="option_amount3" value="304.00">
+							<input type="hidden" name="option_select4" value="Golf+BBQ+Lake-View+2Nights+Actives">
+							<input type="hidden" name="option_amount4" value="493.00">
+							<input type="hidden" name="option_select5" value="Golf+BBQ+Deluxe+2Nights+Actives">
+							<input type="hidden" name="option_amount5" value="533.00">
+							<input type="hidden" name="option_index" value="0">
+							<input type="submit" name="submit" value="Pay via Paypal" class="btn btn-primary">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+						</form>
+					</div>
+					<div class="col-md-6">
+						<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+							<input type="hidden" name="cmd" value="_xclick">
+							<input type="hidden" name="business" value="pkpalum@gmail.com">
+							<input type="hidden" name="lc" value="US">
+							<input type="hidden" name="button_subtype" value="services">
+							<input type="hidden" name="no_note" value="0">
+							<input type="hidden" name="currency_code" value="CAD">
+							<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest">
+							<table>
+								<tr><td class="table-title"><input type="hidden" name="on0" value="Golf">Alumni Packages</td></tr><tr><td><select class="form-control" name="os0">
+									<option value="Golf+Alumni">Golf Only $75.00 CAD</option>
+									<option value="Golf+BBQ+Alumni">Golf + BBQ $115.00 CAD</option>
+									<option value="Golf+BBQ+Lake-View+Alumni">Golf + BBQ + Double Lake-View $324.00 CAD</option>
+									<option value="Golf+BBQ+Deluxe+Alumni">Golf + BBQ + Double Deluxe $344.00 CAD</option>
+									<option value="Golf+BBQ+Lake-View+2Nights+Alumni">Golf + BBQ + Double Lake-View (2 nights) $533.00 CAD</option>
+									<option value="Golf+BBQ+Deluxe+2Nights+Alumni">Golf + BBQ + Double Deluxe (2 nights) $573.00 CAD</option>
+								</select> </td></tr>
+							</table>
+							<input type="hidden" name="currency_code" value="CAD">
+							<input type="hidden" name="option_select0" value="Golf+Alumni">
+							<input type="hidden" name="option_amount0" value="75.00">
+							<input type="hidden" name="option_select1" value="Golf+BBQ+Alumni">
+							<input type="hidden" name="option_amount1" value="115.00">
+							<input type="hidden" name="option_select2" value="Golf+BBQ+Lake-View+Alumni">
+							<input type="hidden" name="option_amount3" value="324.00">
+							<input type="hidden" name="option_select4" value="Golf+BBQ+Deluxe+Alumni">
+							<input type="hidden" name="option_amount4" value="344.00">
+							<input type="hidden" name="option_select5" value="Golf+BBQ+Lake-View+2Nights+Alumni">
+							<input type="hidden" name="option_amount5" value="533.00">
+							<input type="hidden" name="option_select6" value="Golf+BBQ+Deluxe+2Nights+Alumni">
+							<input type="hidden" name="option_amount6" value="573.00">
+							<input type="hidden" name="option_index" value="0">
+							<input type="submit" name="submit" value="Pay via Paypal" class="btn btn-primary">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+						</form>
+					</div>
 				</div>
 			</div>
 		</div>
