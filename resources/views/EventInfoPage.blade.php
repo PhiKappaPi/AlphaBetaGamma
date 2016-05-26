@@ -144,8 +144,10 @@
 								<tr><td class="table-title"><input type="hidden" name="on0" value="Golf">Active Packages</td></tr><tr><td><select class="form-control" name="os0">
 									<option value="Golf+Actives">Golf Only $50.00 CAD</option>
 									<option value="Golf+BBQ+Actives">Golf + BBQ $75.00 CAD</option>>
-									<option value="Golf+BBQ+Lake-View+Actives">Golf + BBQ + Double Lake-View $284.00 CAD</option>
-									<option value="Golf+BBQ+Deluxe+Actives">Golf + BBQ + Double Deluxe $304.00 CAD</option>>
+									<option value="Golf+BBQ+Lake-View+Fri+Actives">Golf + BBQ + Double Lake-View (Fri Night Only) $284.00 CAD</option>
+									<option value="Golf+BBQ+Deluxe+Fri+Actives">Golf + BBQ + Double Deluxe (Fri Night Only) $304.00 CAD</option>>
+									<option value="Golf+BBQ+Lake-View+Sat+Actives">Golf + BBQ + Double Lake-View (Sat Night Only) $284.00 CAD</option>
+									<option value="Golf+BBQ+Deluxe+Sat+Actives">Golf + BBQ + Double Deluxe (Sat Night Only) $304.00 CAD</option>>
 									<option value="Golf+BBQ+Lake-View+2Nights+Actives">Golf + BBQ + Double Lake-View (2 nights) $493.00 CAD</option>
 									<option value="Golf+BBQ+Deluxe+2Nights+Actives">Golf + BBQ + Double Deluxe (2 nights) $533.00 CAD</option>>
 								</select> </td></tr>
@@ -155,14 +157,18 @@
 							<input type="hidden" name="option_amount0" value="50.00">
 							<input type="hidden" name="option_select1" value="Golf+BBQ+Actives">
 							<input type="hidden" name="option_amount1" value="75.00">
-							<input type="hidden" name="option_select2" value="Golf+BBQ+Lake-View+Actives">
+							<input type="hidden" name="option_select2" value="Golf+BBQ+Lake-View+Fri+Actives">
 							<input type="hidden" name="option_amount2" value="284.00">
-							<input type="hidden" name="option_select3" value="Golf+BBQ+Deluxe+Actives">
+							<input type="hidden" name="option_select3" value="Golf+BBQ+Deluxe+Fri+Actives">
 							<input type="hidden" name="option_amount3" value="304.00">
-							<input type="hidden" name="option_select4" value="Golf+BBQ+Lake-View+2Nights+Actives">
-							<input type="hidden" name="option_amount4" value="493.00">
-							<input type="hidden" name="option_select5" value="Golf+BBQ+Deluxe+2Nights+Actives">
-							<input type="hidden" name="option_amount5" value="533.00">
+							<input type="hidden" name="option_select4" value="Golf+BBQ+Lake-View+Sat+Actives">
+							<input type="hidden" name="option_amount4" value="284.00">
+							<input type="hidden" name="option_select5" value="Golf+BBQ+Deluxe+Sat+Actives">
+							<input type="hidden" name="option_amount5" value="304.00">
+							<input type="hidden" name="option_select6" value="Golf+BBQ+Lake-View+2Nights+Actives">
+							<input type="hidden" name="option_amount6" value="493.00">
+							<input type="hidden" name="option_select7" value="Golf+BBQ+Deluxe+2Nights+Actives">
+							<input type="hidden" name="option_amount7" value="533.00">
 							<input type="hidden" name="option_index" value="0">
 							<input type="submit" name="submit" value="Pay via Paypal" class="btn btn-primary">
 							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
@@ -181,8 +187,10 @@
 								<tr><td class="table-title"><input type="hidden" name="on0" value="Golf">Alumni Packages</td></tr><tr><td><select class="form-control" name="os0">
 									<option value="Golf+Alumni">Golf Only $75.00 CAD</option>
 									<option value="Golf+BBQ+Alumni">Golf + BBQ $115.00 CAD</option>
-									<option value="Golf+BBQ+Lake-View+Alumni">Golf + BBQ + Double Lake-View $324.00 CAD</option>
-									<option value="Golf+BBQ+Deluxe+Alumni">Golf + BBQ + Double Deluxe $344.00 CAD</option>
+									<option value="Golf+BBQ+Lake-View+Fri+Alumni">Golf + BBQ + Double Lake-View (Fri Night Only) $324.00 CAD</option>
+									<option value="Golf+BBQ+Deluxe+Fri+Alumni">Golf + BBQ + Double Deluxe (Fri Night Only) $344.00 CAD</option>
+									<option value="Golf+BBQ+Lake-View+Sat+Alumni">Golf + BBQ + Double Lake-View (Sat Night Only) $324.00 CAD</option>
+									<option value="Golf+BBQ+Deluxe+Sat+Alumni">Golf + BBQ + Double Deluxe (Sat Night Only) $344.00 CAD</option>
 									<option value="Golf+BBQ+Lake-View+2Nights+Alumni">Golf + BBQ + Double Lake-View (2 nights) $533.00 CAD</option>
 									<option value="Golf+BBQ+Deluxe+2Nights+Alumni">Golf + BBQ + Double Deluxe (2 nights) $573.00 CAD</option>
 								</select> </td></tr>
@@ -192,14 +200,18 @@
 							<input type="hidden" name="option_amount0" value="75.00">
 							<input type="hidden" name="option_select1" value="Golf+BBQ+Alumni">
 							<input type="hidden" name="option_amount1" value="115.00">
-							<input type="hidden" name="option_select2" value="Golf+BBQ+Lake-View+Alumni">
-							<input type="hidden" name="option_amount3" value="324.00">
-							<input type="hidden" name="option_select4" value="Golf+BBQ+Deluxe+Alumni">
-							<input type="hidden" name="option_amount4" value="344.00">
-							<input type="hidden" name="option_select5" value="Golf+BBQ+Lake-View+2Nights+Alumni">
-							<input type="hidden" name="option_amount5" value="533.00">
-							<input type="hidden" name="option_select6" value="Golf+BBQ+Deluxe+2Nights+Alumni">
-							<input type="hidden" name="option_amount6" value="573.00">
+							<input type="hidden" name="option_select2" value="Golf+BBQ+Lake-View+Fri+Alumni">
+							<input type="hidden" name="option_amount2" value="324.00">
+							<input type="hidden" name="option_select3" value="Golf+BBQ+Deluxe+Fri+Alumni">
+							<input type="hidden" name="option_amount3" value="344.00">
+							<input type="hidden" name="option_select4" value="Golf+BBQ+Lake-View+Sat+Alumni">
+							<input type="hidden" name="option_amount4" value="324.00">
+							<input type="hidden" name="option_select5" value="Golf+BBQ+Deluxe+Sat+Alumni">
+							<input type="hidden" name="option_amount5" value="344.00">
+							<input type="hidden" name="option_select6" value="Golf+BBQ+Lake-View+2Nights+Alumni">
+							<input type="hidden" name="option_amount6" value="533.00">
+							<input type="hidden" name="option_select7" value="Golf+BBQ+Deluxe+2Nights+Alumni">
+							<input type="hidden" name="option_amount7" value="573.00">
 							<input type="hidden" name="option_index" value="0">
 							<input type="submit" name="submit" value="Pay via Paypal" class="btn btn-primary">
 							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
