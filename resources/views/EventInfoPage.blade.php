@@ -201,7 +201,7 @@
 							</table>
 							<input type="hidden" name="currency_code" value="CAD">
 							<input type="hidden" name="option_select0" value="BBQ+Alumni">
-							<input type="hidden" name="option_amount0" value="25.00">
+							<input type="hidden" name="option_amount0" value="50.00">
 							<input type="hidden" name="option_select1" value="Golf+Alumni">
 							<input type="hidden" name="option_amount1" value="75.00">
 							<input type="hidden" name="option_select2" value="Golf+BBQ+Alumni">
