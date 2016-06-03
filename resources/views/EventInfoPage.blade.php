@@ -234,7 +234,7 @@
 							<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest">
 							<table>
 								<tr><td class="table-title"><input type="hidden" name="on0" value="Golf">Golf Gear</td></tr><tr><td><select class="form-control" name="os0">
-									<option value="BBQ+Alumni">Golf Clubs Rental $20.00 CAD</option>
+									<option value="Golf+Clubs">Golf Clubs Rental $20.00 CAD</option>
 								</select> </td></tr>
 							</table>
 							<input type="hidden" name="currency_code" value="CAD">
