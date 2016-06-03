@@ -131,7 +131,7 @@
 				</div>	
 				
 				<div class="container paypal">
-					<div class="col-md-6">
+					<div class="col-md-4">
 						<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 							<input type="hidden" name="cmd" value="_xclick">
 							<input type="hidden" name="business" value="pkpalum@gmail.com">
@@ -177,7 +177,7 @@
 							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 						</form>
 					</div>
-					<div class="col-md-6">
+					<div class="col-md-4">
 						<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 							<input type="hidden" name="cmd" value="_xclick">
 							<input type="hidden" name="business" value="pkpalum@gmail.com">
@@ -218,6 +218,28 @@
 							<input type="hidden" name="option_amount7" value="533.00">
 							<input type="hidden" name="option_select8" value="Golf+BBQ+Deluxe+2Nights+Alumni">
 							<input type="hidden" name="option_amount8" value="573.00">
+							<input type="hidden" name="option_index" value="0">
+							<input type="submit" name="submit" value="Pay via Paypal" class="btn btn-primary">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+						</form>
+					</div>
+					<div class="col-md-4">
+						<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+							<input type="hidden" name="cmd" value="_xclick">
+							<input type="hidden" name="business" value="pkpalum@gmail.com">
+							<input type="hidden" name="lc" value="US">
+							<input type="hidden" name="button_subtype" value="services">
+							<input type="hidden" name="no_note" value="0">
+							<input type="hidden" name="currency_code" value="CAD">
+							<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest">
+							<table>
+								<tr><td class="table-title"><input type="hidden" name="on0" value="Golf">Golf Gear</td></tr><tr><td><select class="form-control" name="os0">
+									<option value="BBQ+Alumni">Golf Clubs Rental $20.00 CAD</option>
+								</select> </td></tr>
+							</table>
+							<input type="hidden" name="currency_code" value="CAD">
+							<input type="hidden" name="option_select0" value="Golf+Clubs">
+							<input type="hidden" name="option_amount0" value="20.00">
 							<input type="hidden" name="option_index" value="0">
 							<input type="submit" name="submit" value="Pay via Paypal" class="btn btn-primary">
 							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
