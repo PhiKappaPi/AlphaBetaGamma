@@ -188,7 +188,7 @@
 							<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest">
 							<table>
 								<tr><td class="table-title"><input type="hidden" name="on0" value="Golf">Alumni Packages</td></tr><tr><td><select class="form-control" name="os0">
-									<option value="BBQ+Alumni">BBQ Only $50.00 CAD</option>
+									<option value="BBQ+Alumni">BBQ Only $40.00 CAD</option>
 									<option value="Golf+Alumni">Golf Only $75.00 CAD</option>
 									<option value="Golf+BBQ+Alumni">Golf + BBQ $115.00 CAD</option>
 									<option value="Golf+BBQ+Lake-View+Fri+Alumni">Golf + BBQ + Double Lake-View (Fri Night Only) $324.00 CAD</option>
@@ -201,7 +201,7 @@
 							</table>
 							<input type="hidden" name="currency_code" value="CAD">
 							<input type="hidden" name="option_select0" value="BBQ+Alumni">
-							<input type="hidden" name="option_amount0" value="50.00">
+							<input type="hidden" name="option_amount0" value="40.00">
 							<input type="hidden" name="option_select1" value="Golf+Alumni">
 							<input type="hidden" name="option_amount1" value="75.00">
 							<input type="hidden" name="option_select2" value="Golf+BBQ+Alumni">
