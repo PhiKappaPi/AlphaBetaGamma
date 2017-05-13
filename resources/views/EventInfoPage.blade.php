@@ -50,10 +50,8 @@
 							
 							<h3> When </h3>
 							<dl>
-								<dt>July 7 and 8 </dt>
-								<dt>Golfing On July 8</dt>
-								<dd>12 foursomes</dd>
-								<dd>First tee-off at 9:30 AM</dd> 
+								<dt>July 8, 2017</dt>
+								<dd>First tee-off at 9:00 AM</dd> 
 								<dd>Every 8 minutes thereafter </dd>
 							</dl>
 							<h3> Costs </h3>
@@ -63,7 +61,6 @@
 								<dd>Actives $50</dd>
 								<dt>Accommodations:</dt>
 								<dd>Group rates</dd>
-								<dd>Double Deluxe suites from $205 per night + taxes</dd>
 								<dd>Double lake-view suites from $189 per night + taxes</dd>
 							</dl>
 						</div>
@@ -88,7 +85,6 @@
 					<div class="col-md-4 activity">								
 						<h3>Relax At Jim's</h5>
 						<p>
-							Boating will be available<br>
 							Help out Team Eileen with dinner preparations<br>
 							Volunteer to babysit for mothers going for massages and/or baths<br>
 							Brother Jim Ross is hosting the dinner at his cottage beside a lake, minutes from the golf course.<br>
@@ -146,11 +142,8 @@
 									<option value="Golf+Actives">Golf Only $50.00 CAD</option>
 									<option value="Golf+BBQ+Actives">Golf + BBQ $75.00 CAD</option>>
 									<option value="Golf+BBQ+Lake-View+Fri+Actives">Golf + BBQ + Double Lake-View (Fri Night Only) $278.00 CAD</option>
-									<option value="Golf+BBQ+Deluxe+Fri+Actives">Golf + BBQ + Double Deluxe (Fri Night Only) $304.00 CAD</option>>
 									<option value="Golf+BBQ+Lake-View+Sat+Actives">Golf + BBQ + Double Lake-View (Sat Night Only) $278.00 CAD</option>
-									<option value="Golf+BBQ+Deluxe+Sat+Actives">Golf + BBQ + Double Deluxe (Sat Night Only) $304.00 CAD</option>>
 									<option value="Golf+BBQ+Lake-View+2Nights+Actives">Golf + BBQ + Double Lake-View (2 nights) $481.00 CAD</option>
-									<option value="Golf+BBQ+Deluxe+2Nights+Actives">Golf + BBQ + Double Deluxe (2 nights) $533.00 CAD</option>>
 								</select> </td></tr>
 							</table>
 							<input type="hidden" name="currency_code" value="CAD">
@@ -162,16 +155,10 @@
 							<input type="hidden" name="option_amount2" value="75.00">
 							<input type="hidden" name="option_select3" value="Golf+BBQ+Lake-View+Fri+Actives">
 							<input type="hidden" name="option_amount3" value="278.00">
-							<input type="hidden" name="option_select4" value="Golf+BBQ+Deluxe+Fri+Actives">
-							<input type="hidden" name="option_amount4" value="304.00">
 							<input type="hidden" name="option_select5" value="Golf+BBQ+Lake-View+Sat+Actives">
 							<input type="hidden" name="option_amount5" value="278.00">
-							<input type="hidden" name="option_select6" value="Golf+BBQ+Deluxe+Sat+Actives">
-							<input type="hidden" name="option_amount6" value="304.00">
 							<input type="hidden" name="option_select7" value="Golf+BBQ+Lake-View+2Nights+Actives">
 							<input type="hidden" name="option_amount7" value="481.00">
-							<input type="hidden" name="option_select8" value="Golf+BBQ+Deluxe+2Nights+Actives">
-							<input type="hidden" name="option_amount8" value="533.00">
 							<input type="hidden" name="option_index" value="0">
 							<input type="submit" name="submit" value="Pay via Paypal" class="btn btn-primary">
 							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
@@ -192,11 +179,8 @@
 									<option value="Golf+Alumni">Golf Only $75.00 CAD</option>
 									<option value="Golf+BBQ+Alumni">Golf + BBQ $115.00 CAD</option>
 									<option value="Golf+BBQ+Lake-View+Fri+Alumni">Golf + BBQ + Double Lake-View (Fri Night Only) $318.00 CAD</option>
-									<option value="Golf+BBQ+Deluxe+Fri+Alumni">Golf + BBQ + Double Deluxe (Fri Night Only) $344.00 CAD</option>
 									<option value="Golf+BBQ+Lake-View+Sat+Alumni">Golf + BBQ + Double Lake-View (Sat Night Only) $318.00 CAD</option>
-									<option value="Golf+BBQ+Deluxe+Sat+Alumni">Golf + BBQ + Double Deluxe (Sat Night Only) $344.00 CAD</option>
 									<option value="Golf+BBQ+Lake-View+2Nights+Alumni">Golf + BBQ + Double Lake-View (2 nights) $521.00 CAD</option>
-									<option value="Golf+BBQ+Deluxe+2Nights+Alumni">Golf + BBQ + Double Deluxe (2 nights) $573.00 CAD</option>
 								</select> </td></tr>
 							</table>
 							<input type="hidden" name="currency_code" value="CAD">
@@ -208,16 +192,10 @@
 							<input type="hidden" name="option_amount2" value="115.00">
 							<input type="hidden" name="option_select3" value="Golf+BBQ+Lake-View+Fri+Alumni">
 							<input type="hidden" name="option_amount3" value="318.00">
-							<input type="hidden" name="option_select4" value="Golf+BBQ+Deluxe+Fri+Alumni">
-							<input type="hidden" name="option_amount4" value="344.00">
 							<input type="hidden" name="option_select5" value="Golf+BBQ+Lake-View+Sat+Alumni">
 							<input type="hidden" name="option_amount5" value="318.00">
-							<input type="hidden" name="option_select6" value="Golf+BBQ+Deluxe+Sat+Alumni">
-							<input type="hidden" name="option_amount6" value="344.00">
 							<input type="hidden" name="option_select7" value="Golf+BBQ+Lake-View+2Nights+Alumni">
 							<input type="hidden" name="option_amount7" value="521.00">
-							<input type="hidden" name="option_select8" value="Golf+BBQ+Deluxe+2Nights+Alumni">
-							<input type="hidden" name="option_amount8" value="573.00">
 							<input type="hidden" name="option_index" value="0">
 							<input type="submit" name="submit" value="Pay via Paypal" class="btn btn-primary">
 							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
